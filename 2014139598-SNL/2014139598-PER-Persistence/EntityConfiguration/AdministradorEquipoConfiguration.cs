@@ -18,7 +18,7 @@ namespace _2014139598_PER_Persistence.EntityConfiguration
 
             //Relationships Configurations
 
-
+           
         }
     }
 }

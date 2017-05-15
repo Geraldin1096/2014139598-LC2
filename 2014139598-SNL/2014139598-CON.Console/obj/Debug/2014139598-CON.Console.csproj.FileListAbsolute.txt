@@ -3,3 +3,4 @@ C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-S
 C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-CON.Console\bin\Debug\2014139598-CON.Console.pdb
 C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-CON.Console\obj\Debug\2014139598-CON.Console.exe
 C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-CON.Console\obj\Debug\2014139598-CON.Console.pdb
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-CON.Console\obj\Debug\2014139598-CON.Console.csprojResolveAssemblyReference.cache
