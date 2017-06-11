@@ -17,7 +17,7 @@ namespace _2014139598_PER_Persistence.EntityConfiguration
             HasKey(di => di.DireccionId);
 
             //Relationships Configurations
-
+            HasRequired(ug => ug.Ubigeos).WithMany(dr => dr.Direccion).HasForeignKey(ug => ug.UbigeoId);
 
         }
     }

@@ -10,15 +10,8 @@ namespace _2014139598_PER_Persistence.Repositories
 {
     public class ContratoRepository : Repository<Contrato>, IContratoRepository
     {
-        private LineaNuevaDbContext _Context;
-
-        public ContratoRepository(LineaNuevaDbContext context)
+        public ContratoRepository(LineaNuevaDbContext context) : base(context)
         {
-            _Context = context;
-        }
-        private ContratoRepository()
-        {
-
         }
     }
 }

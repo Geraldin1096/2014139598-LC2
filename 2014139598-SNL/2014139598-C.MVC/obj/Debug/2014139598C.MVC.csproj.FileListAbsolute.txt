@@ -1,0 +1,270 @@
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\roslyn\csc.exe
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\roslyn\csc.exe.config
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\roslyn\csc.rsp
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\roslyn\csi.exe
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\roslyn\csi.rsp
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\roslyn\System.AppContext.dll
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\roslyn\vbc.exe
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\roslyn\vbc.exe.config
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\roslyn\vbc.rsp
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\LineaTelefonicaC.MVC.dll.config
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\LineaTelefonicaC.MVC.dll
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\LineaTelefonicaC.MVC.pdb
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\Antlr3.Runtime.dll
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\EntityFramework.dll
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\LineaTelefonicaC.Entities.dll
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\LineaTelefonicaC.Persistence.dll
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\Microsoft.AI.Web.dll
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\Newtonsoft.Json.dll
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\System.Web.Helpers.dll
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\System.Web.Mvc.dll
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\System.Web.Optimization.dll
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\System.Web.Razor.dll
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\System.Web.WebPages.dll
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\WebGrease.dll
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\LineaTelefonicaC.Entities.pdb
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\LineaTelefonicaC.Persistence.pdb
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\LineaTelefonicaC.Persistence.dll.config
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\EntityFramework.xml
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\System.Web.Helpers.xml
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\System.Web.Mvc.xml
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\System.Web.Optimization.xml
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\System.Web.Razor.xml
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\System.Web.WebPages.xml
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\Newtonsoft.Json.xml
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\Microsoft.AI.Web.xml
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\es\System.Web.Helpers.resources.dll
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\es\System.Web.Mvc.resources.dll
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\es\System.Web.Optimization.resources.dll
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\es\System.Web.Razor.resources.dll
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\es\System.Web.WebPages.resources.dll
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\obj\Debug\LineaTelefonicaC.MVC.csprojResolveAssemblyReference.cache
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\obj\Debug\LineaTelefonicaC.MVC.dll
+C:\Users\ANAE TAMI\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\obj\Debug\LineaTelefonicaC.MVC.pdb
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\obj\Debug\LineaTelefonicaC.MVC.csprojResolveAssemblyReference.cache
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\obj\Debug\LineaTelefonicaC.MVC.dll
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\obj\Debug\LineaTelefonicaC.MVC.pdb
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\roslyn\csc.exe
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\roslyn\csc.exe.config
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\roslyn\csc.rsp
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\roslyn\csi.exe
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\roslyn\csi.rsp
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\roslyn\System.AppContext.dll
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\roslyn\vbc.exe
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\roslyn\vbc.exe.config
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\roslyn\vbc.rsp
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\LineaTelefonicaC.MVC.dll.config
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\LineaTelefonicaC.MVC.dll
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\LineaTelefonicaC.MVC.pdb
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\Antlr3.Runtime.dll
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\EntityFramework.dll
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\LineaTelefonicaC.Entities.dll
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\LineaTelefonicaC.Persistence.dll
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\Microsoft.AI.Web.dll
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\Newtonsoft.Json.dll
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\Ninject.dll
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\Ninject.Web.Common.dll
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\Ninject.Web.Mvc.dll
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\System.Web.Helpers.dll
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\System.Web.Mvc.dll
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\System.Web.Optimization.dll
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\System.Web.Razor.dll
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\System.Web.WebPages.dll
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\WebActivatorEx.dll
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\WebGrease.dll
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\LineaTelefonicaC.Entities.pdb
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\LineaTelefonicaC.Persistence.pdb
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\LineaTelefonicaC.Persistence.dll.config
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\EntityFramework.xml
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\Ninject.xml
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\Ninject.Web.Common.xml
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\Ninject.Web.Mvc.xml
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\System.Web.Helpers.xml
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\System.Web.Mvc.xml
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\System.Web.Optimization.xml
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\System.Web.Razor.xml
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\System.Web.WebPages.xml
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\Newtonsoft.Json.xml
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\Microsoft.AI.Web.xml
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\es\System.Web.Helpers.resources.dll
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\es\System.Web.Mvc.resources.dll
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\es\System.Web.Optimization.resources.dll
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\es\System.Web.Razor.resources.dll
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\es\System.Web.WebPages.resources.dll
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\System.Net.Http.Formatting.dll
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\System.Web.Http.dll
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\WebApiContrib.IoC.Ninject.dll
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\System.Net.Http.Formatting.xml
+C:\Users\dandy\Desktop\LineaTelefonicaC\LineaTelefonicaC\LineaTelefonicaC.MVC\bin\System.Web.Http.xml
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\obj\Debug\2014139598C.MVC.csprojResolveAssemblyReference.cache
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\roslyn\csc.exe
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\roslyn\csc.exe.config
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\roslyn\csc.rsp
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\roslyn\csi.exe
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\roslyn\csi.rsp
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\roslyn\System.AppContext.dll
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\roslyn\vbc.exe
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\roslyn\vbc.exe.config
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\roslyn\vbc.rsp
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\LineaTelefonicaC.MVC.dll.config
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\LineaTelefonicaC.MVC.dll
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\LineaTelefonicaC.MVC.pdb
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\2014139598-ENT.Entities.dll
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\2014139598-PER-Persistence.dll
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\Antlr3.Runtime.dll
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\EntityFramework.dll
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\Microsoft.AI.Web.dll
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\Newtonsoft.Json.dll
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\Ninject.dll
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\Ninject.Web.Common.dll
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\Ninject.Web.Mvc.dll
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\System.Net.Http.Formatting.dll
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\System.Web.Helpers.dll
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\System.Web.Http.dll
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\System.Web.Mvc.dll
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\System.Web.Optimization.dll
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\System.Web.Razor.dll
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\System.Web.WebPages.dll
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\WebActivatorEx.dll
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\WebApiContrib.IoC.Ninject.dll
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\WebGrease.dll
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\2014139598-ENT.Entities.pdb
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\2014139598-PER-Persistence.pdb
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\2014139598-PER-Persistence.dll.config
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\EntityFramework.xml
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\Ninject.xml
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\Ninject.Web.Common.xml
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\Ninject.Web.Mvc.xml
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\System.Net.Http.Formatting.xml
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\System.Web.Http.xml
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\System.Web.Helpers.xml
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\System.Web.Mvc.xml
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\System.Web.Optimization.xml
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\System.Web.Razor.xml
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\System.Web.WebPages.xml
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\Newtonsoft.Json.xml
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\Microsoft.AI.Web.xml
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\es\System.Web.Helpers.resources.dll
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\es\System.Web.Mvc.resources.dll
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\es\System.Web.Optimization.resources.dll
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\es\System.Web.Razor.resources.dll
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\es\System.Web.WebPages.resources.dll
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\obj\Debug\LineaTelefonicaC.MVC.dll
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-C.MVC\obj\Debug\LineaTelefonicaC.MVC.pdb

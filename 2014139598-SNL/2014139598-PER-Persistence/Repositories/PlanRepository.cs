@@ -10,15 +10,8 @@ namespace _2014139598_PER_Persistence.Repositories
 {
     public class PlanRepository : Repository<Plan>, IPlanRepository
     {
-        private LineaNuevaDbContext _Context;
-
-        public PlanRepository(LineaNuevaDbContext context)
+        public PlanRepository(LineaNuevaDbContext context) : base(context)
         {
-            _Context = context;
-        }
-        private PlanRepository()
-        {
-
         }
     }
 }

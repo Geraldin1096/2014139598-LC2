@@ -10,16 +10,9 @@ namespace _2014139598_PER_Persistence.Repositories
 {
     public class AdministrarLineaRepository : Repository<AdministrarLinea>, IAdministrarLineaRepository
     {
-        private LineaNuevaDbContext _Context;
-
-        public AdministrarLineaRepository(LineaNuevaDbContext context)
+        public AdministrarLineaRepository(LineaNuevaDbContext context) : base(context)
         {
-            _Context = context;
         }
 
-        private AdministrarLineaRepository()
-        {
-
-        }
     }
 }

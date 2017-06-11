@@ -7,43 +7,21 @@ using System.Threading.Tasks;
 
 namespace _2014139598_ENT.Entities
 {
-    /*
     public class AdministradorEquipo
     {
         public int AdministradorEquipoId { get; set; }
 
+        public string modalidad { get; set; }
+        public DateTime fecha { get; set; }
+        public int cantidad { get; set; }
+        public string stockDisponible { get; set; }
 
-        private List<EquipoCelular> _Equipos;
-
-        public AdministradorEquipo()
-        {
-            Equipos = new List<EquipoCelular>();
-        }
-
-        public List<EquipoCelular> Equipos
-        {
-            get { return _Equipos; }
-            private set { _Equipos = value; }
-        }
-
-        public void AgregarEquipo(EquipoCelular equipo)
-        {
-            Equipos.Add(equipo);
-        }
-    }
-    */
-
-    public class AdministradorEquipo
-    {
-        public int AdministradorEquipoId { get; set; }
-
-        public int codAdmiEquipo { get; set; }
-        public double inventario { get; set; }
-        public ICollection<EquipoCelular> EquipoCelular { get; set; }
+        public EquipoCelular EquipoCelulars { get; set; }
+        public int EquipoCelularId { get; set; }
 
         public AdministradorEquipo()
         {
-            EquipoCelular = new Collection<EquipoCelular>();
+            EquipoCelulars = new EquipoCelular();
         }
     }
 

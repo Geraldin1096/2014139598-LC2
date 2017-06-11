@@ -10,15 +10,8 @@ namespace _2014139598_PER_Persistence.Repositories
 {
     public class CentroAtencionRepository : Repository<CentroAtencion>, ICentroAtencionRepository
     {
-        private LineaNuevaDbContext _Context;
-
-        public CentroAtencionRepository(LineaNuevaDbContext context)
+        public CentroAtencionRepository(LineaNuevaDbContext context) : base(context)
         {
-            _Context = context;
-        }
-        private CentroAtencionRepository()
-        {
-
         }
     }
 }

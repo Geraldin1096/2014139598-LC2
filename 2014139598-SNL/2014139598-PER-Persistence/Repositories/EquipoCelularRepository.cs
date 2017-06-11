@@ -10,16 +10,9 @@ namespace _2014139598_PER_Persistence.Repositories
 {
     public class EquipoCelularRepository : Repository<EquipoCelular>, IEquipoCelularRepository
     {
-        private LineaNuevaDbContext _Context;
-
-        public EquipoCelularRepository(LineaNuevaDbContext context)
+        public EquipoCelularRepository(LineaNuevaDbContext context) : base(context)
         {
-            _Context = context;
         }
 
-        private  EquipoCelularRepository()
-        {
-
-        }
     }
 }

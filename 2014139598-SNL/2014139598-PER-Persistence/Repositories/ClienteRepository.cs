@@ -10,15 +10,8 @@ namespace _2014139598_PER_Persistence.Repositories
 {
     public class ClienteRepository : Repository<Cliente>, IClienteRepository
     {
-        private LineaNuevaDbContext _Context;
-
-        public ClienteRepository(LineaNuevaDbContext context)
+        public ClienteRepository(LineaNuevaDbContext context) : base(context)
         {
-            _Context = context;
-        }
-        private ClienteRepository()
-        {
-
         }
     }
 }

@@ -7,35 +7,22 @@ using System.Threading.Tasks;
 
 namespace _2014139598_ENT.Entities
 {
-    /*
     public class AdministrarLinea
     {
 
         public int AdministrarLineaId { get; set; }
 
-        public List<LineaTelefonica> Lineas { get; set; }
+        public int numeroTelefonico { get; set; }
+        public DateTime fecha { get; set; }
+        public string estadoLinea { get; set; }
+
+        public LineaTelefonica LineaTelefonicas { get; set; }
+        public int LineaTelefonicaId { get; set; }
 
         public AdministrarLinea()
         {
-            Lineas = new List<LineaTelefonica>();
+            LineaTelefonicas = new LineaTelefonica();
         }
 
-        public void AgregarLinea(string numero)
-        {
-            Lineas.Add(new LineaTelefonica(numero));
-        }
-    }  */
-    public class AdministrarLinea
-    {
-        public int AdministrarLineaId { get; set; }
-
-        public int codAdmiLinea { get; set; }
-        public int baseDatos { get; set; }
-        public ICollection<LineaTelefonica> LineaTelefonica { get; set; }
-
-        public AdministrarLinea()
-        {
-            LineaTelefonica = new Collection<LineaTelefonica>();
-        }
     }
 }

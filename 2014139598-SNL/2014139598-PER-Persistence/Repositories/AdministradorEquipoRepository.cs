@@ -8,22 +8,11 @@ using System.Threading.Tasks;
 
 namespace _2014139598_PER_Persistence.Repositories
 {
-    class AdministradorEquipoRepository : Repository<AdministradorEquipo>, IAdministradorEquipoRepository
+    public class AdministradorEquipoRepository : Repository<AdministradorEquipo>, IAdministradorEquipoRepository
     {
-        private readonly LineaNuevaDbContext _Context;
-
-        private AdministradorEquipoRepository()
+        public AdministradorEquipoRepository(LineaNuevaDbContext context) : base(context)
         {
+        }
 
-        }
-        public AdministradorEquipoRepository(LineaNuevaDbContext context)
-        {
-            _Context = context;
-
-        }
-        IEnumerable<AdministradorEquipo> IAdministradorEquipoRepository.GetAdministradorEquiposWithEquipoCelulars(int pageIndex, int pageSize)
-        {
-            throw new NotImplementedException();
-        }
     }
 }

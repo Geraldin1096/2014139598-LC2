@@ -12,11 +12,13 @@ namespace _2014139598_PER_Persistence.EntityConfiguration
     {
         public AdministrarLineaConfiguration()
         {
-            //Table Configuration
-            ToTable("AdministrarLinea");
-            HasKey(al => al.AdministrarLineaId);
+            
+                //Table Configuration
+                ToTable("AdministradorLinea");
+                HasKey(al => al.AdministrarLineaId);
 
-            //Relationships Configurations
+                HasRequired(lt => lt.LineaTelefonicas).WithMany(al => al.AdministrarLinea).HasForeignKey(lt => lt.LineaTelefonicaId);
+            
 
 
         }

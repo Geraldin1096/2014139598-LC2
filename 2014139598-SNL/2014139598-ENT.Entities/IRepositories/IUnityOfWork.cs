@@ -6,33 +6,26 @@ using System.Threading.Tasks;
 
 namespace _2014139598_ENT.Entities.IRepositories
 {
-   public interface IUnityOfWork : IDisposable
+    public interface IUnityOfWork : IDisposable
     {
-        IAdministradorEquipoRepository AdministradorEquipos { get;  }
-        IAdministrarLineaRepository AdministrarLineas { get; }
-        ICentroAtencionRepository CentroAtencions { get; }
-        IClienteRepository Clientes { get; }
-        IContratoRepository Contratos { get; }
-        IDepartamentoRepository Departamentos { get; }
-        IDireccionRepository Direccions { get; }
-        IDistritoRepository Distritos { get; }
-        IEquipoCelularRepository EquipoCelulars { get; }
-        IEstadoEvaluacionRepository EstadoEvaluacions { get; }
-        IEvaluacionRepository Evaluacions { get; }
-        ILineaTelefonicaRepository LineaTelefonicas { get; }
-        IPlanRepository Plans { get; }
-        IProvinciaRepository Provincias { get; }
-        ITipoEvaluacionRepository TipoEvaluacions { get; }
-        ITipoLineaRepository TipoLineas { get; }
-        ITipoPagoRepository TipoPagos { get; }
-        ITipoPlanRepository TipoPlans { get; }
-        ITipoTrabajadorRepository TipoTrabajadors { get; }
-        ITrabajadorRepository Trabajadors { get; }
-        IUbigeoRepository Ubigeos { get; }
-        IVentaRepository Ventas { get; }
+        IAdministradorEquipoRepository AdministradorEquipos { get; set; }
+        IAdministrarLineaRepository AdministrarLineas { get; set; }
+        ICentroAtencionRepository CentroAtencions { get; set; }
+        IClienteRepository Clientes { get; set; }
+        IContratoRepository Contratos { get; set; }
+        IDepartamentoRepository Departamentos { get; set; }
+        IDireccionRepository Direccions { get; set; }
+        IEquipoCelularRepository EquipoCelulars { get; set; }
+        IEvaluacionRepository Evaluacions { get; set; }
+        ILineaTelefonicaRepository LineaTelefonicas { get; set; }
+        IPlanRepository Plans { get; set; }
+        IProvinciaRepository Provincias { get; set; }
+        ITrabajadorRepository Trabajadors { get; set; }
+        IUbigeoRepository Ubigeos { get; set; }
+        IVentaRepository Ventas { get; set; }
 
-
-        int SaveChange();
-
+        int SaveChanges();
+        void StateModified(object entity);
     }
+
 }

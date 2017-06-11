@@ -1,1 +1,12 @@
 C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-PER-Persistence\obj\Debug\2014139598-PER.Persistence.csprojResolveAssemblyReference.cache
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-PER-Persistence\bin\Debug\2014139598-PER-Persistence.dll.config
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-PER-Persistence\bin\Debug\2014139598-PER-Persistence.dll
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-PER-Persistence\bin\Debug\2014139598-PER-Persistence.pdb
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-PER-Persistence\bin\Debug\2014139598-ENT.Entities.dll
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-PER-Persistence\bin\Debug\EntityFramework.dll
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-PER-Persistence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-PER-Persistence\bin\Debug\2014139598-ENT.Entities.pdb
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-PER-Persistence\bin\Debug\EntityFramework.xml
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-PER-Persistence\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-PER-Persistence\obj\Debug\2014139598-PER-Persistence.dll
+C:\Users\dandy\Documents\Visual Studio 2017\Projects\2014139598-LC2\2014139598-SNL\2014139598-PER-Persistence\obj\Debug\2014139598-PER-Persistence.pdb

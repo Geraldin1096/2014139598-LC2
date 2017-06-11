@@ -10,15 +10,8 @@ namespace _2014139598_PER_Persistence.Repositories
 {
     public class ProvinciaRepository : Repository<Provincia>, IProvinciaRepository
     {
-        private LineaNuevaDbContext _Context;
-
-        public ProvinciaRepository(LineaNuevaDbContext context)
+        public ProvinciaRepository(LineaNuevaDbContext context) : base(context)
         {
-            _Context = context;
-        }
-        private ProvinciaRepository()
-        {
-
         }
     }
 }

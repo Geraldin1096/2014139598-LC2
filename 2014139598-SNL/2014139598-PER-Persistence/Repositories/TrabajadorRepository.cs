@@ -10,15 +10,8 @@ namespace _2014139598_PER_Persistence.Repositories
 {
     public class TrabajadorRepository : Repository<Trabajador>, ITrabajadorRepository
     {
-        private LineaNuevaDbContext _Context;
-
-        public TrabajadorRepository(LineaNuevaDbContext context)
+        public TrabajadorRepository(LineaNuevaDbContext context) : base(context)
         {
-            _Context = context;
-        }
-        private TrabajadorRepository()
-        {
-
         }
     }
 }

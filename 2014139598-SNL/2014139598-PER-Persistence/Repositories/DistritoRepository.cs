@@ -10,16 +10,8 @@ namespace _2014139598_PER_Persistence.Repositories
 {
     public class DistritoRepository : Repository<Distrito>, IDistritoRepository
     {
-        private LineaNuevaDbContext _Context;
-
-        public DistritoRepository(LineaNuevaDbContext context)
+        public DistritoRepository(LineaNuevaDbContext context) : base(context)
         {
-            _Context = context;
-        }
-
-        private DistritoRepository()
-        {
-
         }
     }
 }

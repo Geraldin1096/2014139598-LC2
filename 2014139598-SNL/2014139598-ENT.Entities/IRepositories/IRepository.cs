@@ -12,15 +12,19 @@ namespace _2014139598_ENT.Entities.IRepositories
         void Add(TEntity entity);
         void AddRange(IEnumerable<TEntity> entities);
 
-        TEntity Get(int Id);
+        //READS
+        TEntity Get(int? id);
         IEnumerable<TEntity> GetAll();
         IEnumerable<TEntity> Find(Expression<Func<TEntity, bool>> predicate);
 
-        void Update(TEntity entity);
-        void UpdateRange(IEnumerable<TEntity> entities);
+        //UPDATES
+        // void Update(TEntity entity);
+        //  void UpdateRange(IEnumerable<TEntity> entities);
+        //  void Delete(TEntity entity);
 
+        //DELETES
         void Delete(TEntity entity);
+        //  void RemoveRange(IEnumerable<TEntity> entities);
         void DeleteRange(IEnumerable<TEntity> entities);
-
     }
 }

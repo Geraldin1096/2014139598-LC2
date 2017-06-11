@@ -6,44 +6,21 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace _2014139598_ENT.Entities
-{/*
+{
     public class Departamento
     {
         public int DepartamentoId { get; set; }
 
-        private List<Provincia> _Provincia;
-        int _codDepartamento;
-        String _nomDepartamento;
-        public Departamento(int codProvincia, int codDepartamento, String nomDepartamento)
-        {
-            _codDepartamento = codDepartamento;
-            _nomDepartamento = nomDepartamento;
+        public string codigoDepartamento { get; set; }
+        public string nombreDepartamento { get; set; }
 
-            _Provincia = new List<Provincia>(codProvincia);
-        }
-        public int CodigoDepartamento
-        {
-            get { return _codDepartamento; }
-            set { _codDepartamento = value; }
-        }
-        public String NombreDepartamento
-        {
-            get { return _nomDepartamento; }
-            set { _nomDepartamento = value; }
-        }
-        public Provincia CodProvincia { get; set; }
-    }*/
-    public class Departamento
-    {
-        public int DepartamentoId { get; set; }
-        public int codDepartamento { get; set; }
-        public string nomDepartamento { get; set; }
-        public Ubigeo Ubigeo { get; set; }
-        public ICollection<Provincia> Provincia { get; set; }
+        public Provincia Provincias { get; set; }
+        //public int ProvinciaId { get; set; }
+        public ICollection<Ubigeo> Ubigeo { get; set; }
 
         public Departamento()
         {
-            Provincia = new Collection<Provincia>();
+            Provincias = new Provincia();
         }
     }
 }

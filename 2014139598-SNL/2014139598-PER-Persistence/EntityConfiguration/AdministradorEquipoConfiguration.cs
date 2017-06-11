@@ -18,7 +18,11 @@ namespace _2014139598_PER_Persistence.EntityConfiguration
 
             //Relationships Configurations
 
-           
+            HasRequired(ec => ec.EquipoCelulars).WithMany(ae => ae.AdministradorEquipo).HasForeignKey(ec => ec.EquipoCelularId);
+
+
+
+
         }
     }
 }

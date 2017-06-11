@@ -10,15 +10,8 @@ namespace _2014139598_PER_Persistence.Repositories
 {
     public class VentaRepository : Repository<Venta>, IVentaRepository
     {
-        private LineaNuevaDbContext _Context;
-
-        public VentaRepository(LineaNuevaDbContext context)
+        public VentaRepository(LineaNuevaDbContext context) : base(context)
         {
-            _Context = context;
-        }
-        private VentaRepository()
-        {
-
         }
     }
 }

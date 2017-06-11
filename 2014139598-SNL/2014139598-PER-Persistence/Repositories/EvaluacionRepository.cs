@@ -10,15 +10,8 @@ namespace _2014139598_PER_Persistence.Repositories
 {
     public class EvaluacionRepository : Repository<Evaluacion>, IEvaluacionRepository
     {
-        private LineaNuevaDbContext _Context;
-
-        public EvaluacionRepository(LineaNuevaDbContext context)
+        public EvaluacionRepository(LineaNuevaDbContext context) : base(context)
         {
-            _Context = context;
-        }
-        private EvaluacionRepository()
-        {
-
         }
     }
 }

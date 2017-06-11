@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace _2014139598_ENT.Entities.IRepositories
 {
-  public  interface IAdministrarLineaRepository : IRepository<AdministrarLinea>
+    public interface IAdministrarLineaRepository : IRepository<AdministrarLinea>
     {
+
     }
 }
